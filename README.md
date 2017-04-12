@@ -26,3 +26,7 @@ This is shorthand for:
 $ git branch new_branch_name
 $ git checkout new_branch_name
 ```
+### delete branch
+```bash
+$ git branch -d branch_name 
+```
